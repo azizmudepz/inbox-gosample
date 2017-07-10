@@ -6,8 +6,8 @@ import (
 
 	"github.com/codegangsta/negroni"
 	"github.com/julienschmidt/httprouter"
-	"github.com/tokopedia/inbox/src/conf"
-	"github.com/tokopedia/inbox/src/message"
+	"github.com/rtulus/inbox-gosample/src/conf"
+	"github.com/rtulus/inbox-gosample/src/message"
 
 	gcfg "gopkg.in/gcfg.v1"
 	grace "gopkg.in/paytm/grace.v1"
