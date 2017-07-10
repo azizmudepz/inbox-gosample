@@ -7,7 +7,7 @@ import (
 
 	"github.com/drone/routes"
 	"github.com/julienschmidt/httprouter"
-	"github.com/tokopedia/inbox/src/conf"
+	"github.com/rtulus/inbox-gosample/src/conf"
 )
 
 type InboxData struct {
